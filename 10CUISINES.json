@@ -1,0 +1,64 @@
+{
+  "cuisines": [
+    {
+      "cuisine": {
+        "cuisine_id": 1035,
+        "cuisine_name": "Afghan"
+      }
+    },
+    {
+      "cuisine": {
+        "cuisine_id": 1,
+        "cuisine_name": "American"
+      }
+    },
+    {
+      "cuisine": {
+        "cuisine_id": 4,
+        "cuisine_name": "Arabian"
+      }
+    },
+    {
+      "cuisine": {
+        "cuisine_id": 3,
+        "cuisine_name": "Asian"
+      }
+    },
+    {
+      "cuisine": {
+        "cuisine_id": 165,
+        "cuisine_name": "Assamese"
+      }
+    },
+    {
+      "cuisine": {
+        "cuisine_id": 193,
+        "cuisine_name": "BBQ"
+      }
+    },
+    {
+      "cuisine": {
+        "cuisine_id": 5,
+        "cuisine_name": "Bakery"
+      }
+    },
+    {
+      "cuisine": {
+        "cuisine_id": 145,
+        "cuisine_name": "Bangladeshi"
+      }
+    },
+    {
+      "cuisine": {
+        "cuisine_id": 10,
+        "cuisine_name": "Bengali"
+      }
+    },
+    {
+      "cuisine": {
+        "cuisine_id": 270,
+        "cuisine_name": "Beverages"
+      }
+    },
+  ]
+}
